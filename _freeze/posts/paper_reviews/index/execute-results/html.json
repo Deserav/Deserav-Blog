@@ -1,0 +1,12 @@
+{
+  "hash": "74c1f4377a0f6ab3bd60a0ac5d3b22fc",
+  "result": {
+    "engine": "jupyter",
+    "markdown": "---\ntitle: Post With Code\nauthor: Insu Shin\ndate: '2024-02-28'\ncategories:\n  - news\n  - code\n  - analysis\nimage: image.jpg\nhtml:\n  knitr: true\n---\n\nThis is my first post. Let's try Julia in RStudio\n\n::: {#19afe008 .cell execution_count=1}\n``` {.julia .cell-code}\n1+1\n```\n\n::: {.cell-output .cell-output-display execution_count=2}\n```\n2\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "index_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

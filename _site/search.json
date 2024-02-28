@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "posts/paper_reviews.html",
+    "href": "posts/paper_reviews.html",
+    "title": "Insu Shin",
+    "section": "",
+    "text": "Hello world\n\n\n\n\n\n\n\n\nInsu Shin\n\n\n1 min\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\nFeb 28, 2024\n\n\nInsu Shin\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/paper_reviews/First Post/index.html",
+    "href": "posts/paper_reviews/First Post/index.html",
+    "title": "Hello world",
+    "section": "",
+    "text": "hello world!"
+  },
+  {
+    "objectID": "posts/data_science/index.html",
+    "href": "posts/data_science/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "posts/code_tutorials/First Post/index.html",
+    "href": "posts/code_tutorials/First Post/index.html",
+    "title": "first post",
+    "section": "",
+    "text": "This is a post"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Deserav’s Learning Space",
+    "section": "",
+    "text": "first post\n\n\n\n\n\n\n\n\n\n\n\nInsu Shin\n\n\n\n\n\n\n\n\n\n\n\n\nInsu Shin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nInsu Shin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nHello world\n\n\n\n\n\n\n\n\n\n\n\nInsu Shin\n\n\n\n\n\n\n\n\n\n\n\n\nInsu Shin\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPost With Code\n\n\n\n\n\n\nnews\n\n\ncode\n\n\nanalysis\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nInsu Shin\n\n\n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\n\n\n\nFeb 11, 2024\n\n\nTristan O’Malley\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/code_tutorials.html",
+    "href": "posts/code_tutorials.html",
+    "title": "Insu Shin",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nfirst post\n\n\n\n\n\n\n\n\nInsu Shin\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/data_science.html",
+    "href": "posts/data_science.html",
+    "title": "Insu Shin",
+    "section": "",
+    "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\n\n\n\n\n\nWelcome To My Blog\n\n\n\n\n\n\nnews\n\n\n\n\n\n\nFeb 11, 2024\n\n\nTristan O’Malley\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/paper_reviews/index.html",
+    "href": "posts/paper_reviews/index.html",
+    "title": "Post With Code",
+    "section": "",
+    "text": "This is my first post. Let’s try Julia in RStudio\n\n1+1\n\n2"
+  }
+]

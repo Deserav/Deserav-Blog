@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 89c31c0c-6708-47cb-85f7-a6033cc380e9
+      url: 'https://insu-shin.quarto.pub/blog'

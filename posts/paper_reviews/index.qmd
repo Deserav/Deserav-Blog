@@ -1,0 +1,10 @@
+---
+title: "Post With Code"
+author: "Insu Shin"
+date: "2024-02-28"
+categories: [news, code, analysis]
+image: "image.jpg"
+html:
+  knitr: true
+jupyter: julia-1.10
+---

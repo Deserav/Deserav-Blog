@@ -1,0 +1,17 @@
+---
+title: "Data Science"
+
+listing:
+  - contents: data_science
+    type: default
+    fields: [image, date, title, subtitle, categories, author, reading-time]
+    sort: "date desc"
+
+    # categories: cloud
+    sort-ui: false
+    filter-ui: false
+    page-size: 10
+page-layout: full
+title-block-banner: false
+comments: false
+---

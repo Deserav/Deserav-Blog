@@ -1,0 +1,39 @@
+project:
+  type: website
+
+website:
+  page-navigation: true # provide next and previous links in footer
+  page-footer: "2024, Insu Shin"
+  title: "Insu Shin"
+  site-url: 'https://insu-shin.com/'
+  navbar:
+    background: primary
+    search: true
+    left: 
+      - about.qmd
+      - text: "Home"
+        file: index.qmd
+      - text: "Posts"
+        menu: 
+          - text: Paper Reviews
+            file: posts/paper_reviews.qmd
+          - text: Code Tutorials
+            file: posts/code_tutorials.qmd
+          - text: Data Science
+            file: posts/data_science.qmd
+    right:
+      - icon: github
+        href: https://github.com/deserav
+      - icon: instagram
+        href: https://instagram.com/insu_shin
+        
+        
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+editor: visual
+
+execute: 
+  freeze: true

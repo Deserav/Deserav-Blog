@@ -1,0 +1,7 @@
+---
+title: first post
+author: 'Insu Shin'
+data: '2024-02-28'
+---
+
+# This is a post

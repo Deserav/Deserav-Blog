@@ -1,0 +1,33 @@
+[
+  {
+    "listing": "/posts/paper_reviews.html",
+    "items": [
+      "/posts/paper_reviews/First Post/index.html",
+      "/posts/paper_reviews/index.html"
+    ]
+  },
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/code_tutorials/First Post/index.html",
+      "/posts/code_tutorials.html",
+      "/posts/data_science.html",
+      "/posts/paper_reviews/First Post/index.html",
+      "/posts/paper_reviews.html",
+      "/posts/paper_reviews/index.html",
+      "/posts/data_science/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/code_tutorials.html",
+    "items": [
+      "/posts/code_tutorials/First Post/index.html"
+    ]
+  },
+  {
+    "listing": "/posts/data_science.html",
+    "items": [
+      "/posts/data_science/index.html"
+    ]
+  }
+]
